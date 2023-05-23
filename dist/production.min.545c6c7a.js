@@ -43129,7 +43129,7 @@ function() {
                                             $("#rental-carrouselInner").append(
                                                 '\n      <div class="carousel-item">\n        <img\n          style="border-radius: 3rem; background-image: url(\'/images/rental/' +
                                                 o +
-                                                '.jpg\'); height: 700px; background-position: center; background-repeat: no-repeat; background-size: contain;"\n          class="d-block w-100">\n      </div>\n      '
+                                                '.jpeg\'); height: 700px; background-position: center; background-repeat: no-repeat; background-size: contain;"\n          class="d-block w-100">\n      </div>\n      '
                                             );
                                         for (i = 10, a = 2; a < i; a++)
                                             $("#tours-carouselList").append(
